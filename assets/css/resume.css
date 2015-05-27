@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+      text-align: center;
+      background-color:#df9f51;
+      background-position: 100%;
+      background-size: cover;
+      color: white;
+      font-family: helvetica;
+    }
+    
+    p {
+      font-size: 22px;
+    }
+    
+    input {
+      border: 0;
+	  -webkit-border-radius:8px;
+	  -moz-border-radius:8px;
+	  -o-border-radius:8px;
+	  border-radius:8px;
+      padding: 10px;
+      font-size: 18px;
+    }
+    
+    input[type="submit"] {
+      background: #35C2DE;
+      color: white;
+    }
+    
+    
+    .message {
+	    border: 0;
+	  -webkit-border-radius:8px;
+	  -moz-border-radius:8px;
+	  -o-border-radius:8px;
+	  border-radius:8px;
+      padding: 10px;
+      font-size: 18px;
+
+	    
+	   
+    }
+    
+    
